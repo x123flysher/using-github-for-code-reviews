@@ -15,3 +15,4 @@ function findFruitsEndWith(char) {
 console.log(findFruitsStartWith('c'));
 console.log(findFruitsEndWith('e'));
 
+a
